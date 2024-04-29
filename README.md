@@ -4,7 +4,7 @@
 Atualmente estou estudando para me tornar um Desenvolvedor Full Stack, sempre praticando e criando projetos pessoais e acadêmicos para melhorar o aprendizado e adquirir cada vez mais experiência e me tornar um programador capacitado para quaisquer desafios.
 <br>
 <br>
-<h2>Principais tecnologias: </h2>
+<h2>Principais tecnologias :computer:  </h2>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="hmtl-logo" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" /> 
@@ -13,15 +13,21 @@ Atualmente estou estudando para me tornar um Desenvolvedor Full Stack, sempre pr
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node-logo" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescrit" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma-logo" />
-
-  
-  
-  
   <br>
   <br>
+
+<div>
+<h3>Fale comigo :information_source:  </h3>
+  <a href:"https://api.whatsapp.com/send?phone=5527998711427" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href:"https://www.linkedin.com/in/dev-lucas-bastoss/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href:"mailto:bastosls17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+    
+   
+  
   
 
-
+</div>
 
 
 

@@ -1,23 +1,11 @@
-### Hi there 👋
+<h1>Olá, prazer eu me chamo Lucas Bastos Siqueira 👋 </h1>
 <br>
 <br>
-I'm Lucas Bastos, I'm a Front End programmer, I'm currently learning and creating projects with: 
+Atualmente estou estudando para me tornar um Desenvolvedor Full Stack, sempre praticando e criando projetos pessoais e acadêmicos para melhorar o aprendizado e adquirir cada vez mais experiência e me tornar um programador capacitado para quaisquer desafios.
 <br>
 <br>
-
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="hmtl-logo" />
-
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
-  <br>
-  <br>
-
-and starting to study about: 
-<br>
-<br>
-
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" /> 
-
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
+<h2>Principais tecnologias:</h2>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="hmtl-logo" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" />  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
   <br>
   <br>
   

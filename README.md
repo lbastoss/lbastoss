@@ -15,16 +15,17 @@ Atualmente estou estudando para me tornar um Desenvolvedor Full Stack, sempre pr
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma-logo" />
   <br>
   <br>
-##
+  <br>
 <div>
 <h3>Fale comigo :information_source:  </h3>
   <a href="https://api.whatsapp.com/send?phone=5527998711427" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dev-lucas-bastoss/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:bastosls17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 </div>
 
-
+<br>
+<br>
+<br>
 
 
 [![Bastos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbastoss)](https://github.com/anuraghazra/github-readme-stats)
